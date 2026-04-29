@@ -1,0 +1,4 @@
+1. In your new repo, click "uploading an existing file"
+2. Drag & drop the `index.html` file I gave you
+3. OR click "choose your files" → select `index.html`
+4. **Commit changes** → "Commit directly to main branch"
